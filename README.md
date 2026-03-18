@@ -1,4 +1,4 @@
-# Safe-Linker
+s# Safe-Linker
 # Safe-Linker 🛡️
 A lightweight URL Safety Checker designed to identify potentially malicious links before you click them.
 
